@@ -1,0 +1,100 @@
+{
+    "name": "OrderStream",
+    "logo": {
+        "Type": "Logo",
+        "name": "OrderStream Logo",
+        "description": "The official logo of OrderStream, representing streamlined and efficient order management."
+    },
+    "sections": [
+        {
+            "title": "Welcome to OrderStream",
+            "subtitle": "Streamline Your Order Management Effortlessly",
+            "name": "hero-section",
+            "label": "Home",
+            "content": "Easily manage your **customers**, **orders**, **items**, and **products** with OrderStream's all-in-one system. Efficiently track every detail, including notes for orders, to streamline your operations and enhance customer satisfaction.",
+            "order": 1,
+            "Type": "Hero",
+            "images": [
+                {
+                    "Type": "Hero",
+                    "name": "OrderStream Hero Banner",
+                    "description": "A vibrant image showcasing an efficient order management system in action."
+                }
+            ]
+        },
+        {
+            "title": "Our Story",
+            "subtitle": "Revolutionizing Order Management",
+            "name": "about-us",
+            "label": "About",
+            "content": "At OrderStream, our mission is simple: to revolutionize how businesses handle order management by providing a seamless and intuitive platform. With a focus on innovation and customer-centric design, we empower businesses to operate efficiently, saving time and resources.",
+            "order": 2,
+            "Type": "About",
+            "images": [
+                {
+                    "Type": "Infographic",
+                    "name": "OrderStream Evolution",
+                    "description": "A timeline infographic illustrating the evolution of OrderStream's order management solutions."
+                }
+            ]
+        },
+        {
+            "title": "Comprehensive Solutions",
+            "subtitle": "Tailored to Your Needs",
+            "name": "services",
+            "label": "Services",
+            "content": "OrderStream offers an array of core services tailored to meet the needs of modern businesses:\n- **Customer Management**: Detailed profiles that help businesses understand and cater to customer needs.\n- **Order Management**: Simplified tools for placement, tracking, and updating orders with ease.\n- **Inventory Tracking**: Real-time updates and management of items and products.\n- **Notes Field**: Dedicated space for special notes on each order, ensuring no detail goes unnoticed.",
+            "order": 3,
+            "Type": "Services",
+            "images": [
+                {
+                    "Type": "Icon",
+                    "name": "Customer Management Icon",
+                    "description": "An icon representing effective customer management."
+                },
+                {
+                    "Type": "Icon",
+                    "name": "Order Management Icon",
+                    "description": "An icon illustrating streamlined order processing."
+                }
+            ]
+        },
+        {
+            "title": "What Our Clients Say",
+            "subtitle": "",
+            "name": "testimonials",
+            "label": "Testimonials",
+            "content": "Here\u2019s what our satisfied customers have to say about OrderStream:\n- *\"OrderStream completely changed how we handle orders - it's incredibly intuitive and efficient!\"*  \n- *\"The notes feature is a game-changer. Helps us keep track of specific customer requests with zero hassle.\"*",
+            "order": 4,
+            "Type": "Testimonials",
+            "images": [
+                {
+                    "Type": "Testimonial",
+                    "name": "Customer Testimonial Image 1",
+                    "description": "Photo of a happy client praising OrderStream's services."
+                },
+                {
+                    "Type": "Testimonial",
+                    "name": "Customer Testimonial Image 2",
+                    "description": "Another customer expressing satisfaction with the OrderStream platform."
+                }
+            ]
+        },
+        {
+            "title": "Get in Touch",
+            "subtitle": "Let's Discuss Your Needs",
+            "name": "contact-us",
+            "label": "Contact",
+            "content": "We'd love to hear from you! Contact us today to find out how OrderStream can optimize your order management:\n- **Email**: support@orderstream.com  \n- **Phone**: (555) 123-4567  \n- **Address**: 123 Streamline Rd, Efficiency City, EC 10101  ",
+            "order": 5,
+            "Type": "Contact",
+            "images": [
+                {
+                    "Type": "Map",
+                    "name": "OrderStream Office Location",
+                    "description": "Map showing the location of OrderStream's headquarters."
+                }
+            ]
+        }
+    ]
+}
